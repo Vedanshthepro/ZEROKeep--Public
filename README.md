@@ -1,6 +1,3 @@
-# ZEROKeep--Public
-Public Showcase Repository
-
 # ZeroKeep
 
 A lightweight secure communication platform featuring:
